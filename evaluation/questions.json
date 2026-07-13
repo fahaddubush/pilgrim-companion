@@ -1,0 +1,14 @@
+[
+  {"query": "What are the steps of Tawaf?", "expected_terms": ["tawaf"], "supported": true},
+  {"query": "What should men wear for Ihram?", "expected_terms": ["ihram"], "supported": true},
+  {"query": "What happens on the Day of Arafah?", "expected_terms": ["arafat", "arafah"], "supported": true},
+  {"query": "Where do pilgrims spend the night after Arafah?", "expected_terms": ["muzdalifah", "muzdalifa"], "supported": true},
+  {"query": "How is Sa'i performed between Safa and Marwa?", "expected_terms": ["safa", "marwa"], "supported": true},
+  {"query": "When are the Jamarat stoned?", "expected_terms": ["jamarat", "stoning"], "supported": true},
+  {"query": "What are important crowd safety tips for Hajj?", "expected_terms": ["safety", "crowd", "heat"], "supported": true},
+  {"query": "كيف أؤدي الطواف حول الكعبة؟", "expected_terms": ["tawaf", "طواف", "kaaba"], "supported": true},
+  {"query": "ماذا أفعل في مزدلفة؟", "expected_terms": ["muzdalifah", "مزدلفة"], "supported": true},
+  {"query": "Who won the football World Cup yesterday?", "expected_terms": [], "supported": false},
+  {"query": "Write Python code for a binary search tree", "expected_terms": [], "supported": false},
+  {"query": "What is the best laptop to buy this year?", "expected_terms": [], "supported": false}
+]

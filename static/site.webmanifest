@@ -1,0 +1,17 @@
+{
+  "name": "Pilgrim Companion",
+  "short_name": "Pilgrim",
+  "description": "Evidence-grounded AI guidance for Hajj and Umrah.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050910",
+  "theme_color": "#07111f",
+  "icons": [
+    {
+      "src": "/static/icons/app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

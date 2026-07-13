@@ -1,0 +1,10 @@
+{
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "embedding_dim": 384,
+  "chunk_size": 150,
+  "overlap": 30,
+  "total_chunks": 123,
+  "built_at": "2025-12-04 23:20:57",
+  "deduplicated_at": "2026-07-13T03:02:02.846549+00:00",
+  "duplicates_removed": 62
+}

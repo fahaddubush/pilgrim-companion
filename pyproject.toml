@@ -1,0 +1,15 @@
+[project]
+name = "pilgrim-companion"
+version = "1.0.0"
+description = "A multilingual, evidence-grounded RAG assistant for Hajj and Umrah guidance."
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "fahaddubush" }]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
+filterwarnings = [
+  "ignore:numpy.core._multiarray_umath is deprecated:DeprecationWarning",
+]
